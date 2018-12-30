@@ -44,8 +44,8 @@ const subtractFive = num =>
 const printName = name = function() {
 	console.log(name)
 
-multiplyUs(2,6);
-subtractFromTen(4);
+multiply(2,6);
+subtractFive(4);
 printName('Ghadeer');
 
 ```
